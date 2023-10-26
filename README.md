@@ -1,13 +1,11 @@
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
+<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server (For 05Konz)</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 ## Information
 
-<details><summary><h3>How to use</h3></summary>
+<details><summary><h3>Welcome to Blooketium.</h3></summary>
 
-There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
-2. Going to the [GitHub pages site](https://05konz.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
-3. Copying a script and running it in the inspect element console
+Blooketium is a fork of 05Konz's Blooket cheats, which is a fork of Minesraft2's Blooket cheats.
+We are completely community managed. If you experience any technical difficulties, please contact us.
 </details>
