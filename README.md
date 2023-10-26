@@ -4,8 +4,7 @@
 
 ## Information
 
-<details><summary><h3>Welcome to Blooketium.</h3></summary>
+<h3>Welcome to Blooketium.</h3>
 
 Blooketium is a fork of 05Konz's Blooket cheats, which is a fork of Minesraft2's Blooket cheats.
 We are completely community managed. If you experience any technical difficulties, please contact us.
-</details>
